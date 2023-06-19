@@ -1,6 +1,6 @@
 # Hi there, I'm Fatem 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image]([your_banner_image_url_here](https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/06/22210327/BE-Computer-Science-1600x1001.png))
 
 ## About Me 🚀
 
