@@ -4,20 +4,18 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a forever curious **Software Engineer** with experience in **developing backend services that automate complex workflows**. I love learning about new technologies, exploring new skills, and building innovative solutions that bring value to business!
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
+- 🌱 Currently learning: **microservice architecture**
+- 🔭 Working on: a forecasting tool
 - 🌍 Languages: Python, Java, C++, Linux
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 📫 How to reach me: My LinkedIn https://www.linkedin.com/in/fsaremi/
+- ⚡ Fun fact: I'm learning how to perfect my backhand in tennis 🎾 
 
 ## My Skills 🧠
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
@@ -33,7 +31,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
-## Get in Touch 📬
-- (**LinkedIn** https://www.linkedin.com/in/fsaremi/)
-- **[Youtube Channel]**([your_website_or_blog_link](https://www.youtube.com/channel/UCaS2E7iKY39h5obW0H1hhhQ))
+## My socials 📬
+- **LinkedIn** https://www.linkedin.com/in/fsaremi/
+- **Youtube Channel**(https://www.youtube.com/channel/UCaS2E7iKY39h5obW0H1hhhQ)
 
