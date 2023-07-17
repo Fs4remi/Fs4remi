@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a forever curious **Software Engineer** with experience in **developing backend services that automate complex workflows**. I love learning about new technologies, exploring new skills, and building innovative solutions that bring value to business!
+I'm a **Software Engineer** with experience in **developing backend services that automate complex workflows, make decisions using machine learning models, and process large amounts of data**. I work at [Autodesk](https://www.autodesk.com/) where I build my tools using Python and AWS infrastructure. I volunteer frequently to help Computer Science students get the most out of their education and find their place in tech. 
 
 - 🌱 Currently learning: **microservice architecture**
 - 🔭 Working on: a forecasting tool
