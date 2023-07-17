@@ -34,6 +34,6 @@ In my free time, I volunteer with student education organizations that help Comp
 - **LinkedIn** https://www.linkedin.com/in/fsaremi/
 - **Youtube Channel**(https://www.youtube.com/channel/UCaS2E7iKY39h5obW0H1hhhQ)
 - **Articles**(https://www.linkedin.com/pulse/ycore-techtonica-volunteer-experience-fatemeh-saremi/?trackingId=xqU9IQnEQFGmkLUGH5rSIw%3D%3D)
-      - sdssd   
+    
 ![Banner Image](https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/06/22210327/BE-Computer-Science-1600x1001.png)
 
