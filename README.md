@@ -23,14 +23,14 @@ In my free time, I volunteer with student education organizations that help Comp
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
---! ## Featured Projects 💻
+<!--- ## Featured Projects 💻
 
---! ### [Project 1 Title](project_1_link)
+### [Project 1 Title](project_1_link)
 
---! ![Project 1 Screenshot](project_1_screenshot_url)
+![Project 1 Screenshot](project_1_screenshot_url)
 
---! **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can --!  check out the repository [here](project_1_repository_link).
-
+**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can  check out the repository [here](project_1_repository_link).
+-->
 
 ## My socials 📬
 - **LinkedIn** https://www.linkedin.com/in/fsaremi/
