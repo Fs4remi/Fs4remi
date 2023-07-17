@@ -35,7 +35,8 @@ In my free time, I volunteer with student education organizations that help Comp
 - **Youtube Channel**(https://www.youtube.com/channel/UCaS2E7iKY39h5obW0H1hhhQ)
 - **Articles**
 - [Techtonica Volunteer Experience](https://www.linkedin.com/pulse/ycore-techtonica-volunteer-experience-fatemeh-saremi/?trackingId=xqU9IQnEQFGmkLUGH5rSIw%3D%3D)
--[How to Article: MERN App](https://www.linkedin.com/pulse/mern-app-solve-my-problems-fatemeh-saremi/?trackingId=xqU9IQnEQFGmkLUGH5rSIw%3D%3D)
+- [How to Article: MERN App](https://www.linkedin.com/pulse/mern-app-solve-my-problems-fatemeh-saremi/?trackingId=xqU9IQnEQFGmkLUGH5rSIw%3D%3D)
+- -[Automation with Flask](https://www.linkedin.com/pulse/automating-schedule-lookup-flask-app-fatemeh-saremi/?trackingId=B1uw4ZyERPKLOTuktHc7LQ%3D%3D)
     
 ![Banner Image](https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/06/22210327/BE-Computer-Science-1600x1001.png)
 
