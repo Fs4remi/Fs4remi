@@ -4,13 +4,19 @@
 
 ## About Me 🚀
 
-I'm a **Software Engineer** with experience in **developing backend services that automate complex workflows, make decisions using machine learning models, and process large amounts of data**. I work at [Autodesk](https://www.autodesk.com/) where I build my tools using Python and AWS infrastructure. I volunteer frequently to help Computer Science students get the most out of their education and find their place in tech. 
+I'm a **Software Engineer** with experience in **developing backend services capable of automating complex workflows, making decisions with machine learning models, and processing large amounts of data**. I work at [Autodesk](https://www.autodesk.com/) where I build tools using Python and AWS infrastructure. 
 
-- 🌱 Currently learning: **microservice architecture**
-- 🔭 Working on: a forecasting tool
+I am passionate about understanding the pain points of teams with data-heavy workflows and simplifying their complex processes by developing highly customized machine-learning-powered software. I spend a lot of time understanding the needs and use cases of users so I can design the high-level architecture plan of the tool, develop and iterate on MVPs, and draft user interface mockups that front-end engineers could use as documentation.
+
+Apart from client management, I have expertise in developing reliable event-driven APIs that integrate seamlessly with existing enterprise systems and databases. I enjoy translating manual processes into software solutions and discovering the best fitting machine-learning algorithm to solve problems.  
+
+I volunteer frequently to help Computer Science students get the most out of their education and find their place in tech. 
+
+- 🌱 Currently learning: **micro-service architecture using AWS cloud services**
+- 🔭 Working on: Building a personal website with React
 - 🌍 Languages: Python, Java, C++, Linux
 - 📫 How to reach me: My LinkedIn https://www.linkedin.com/in/fsaremi/
-- ⚡ Fun fact: I'm learning how to perfect my backhand in tennis 🎾 
+- ⚡ Fun fact: I'm learning how to perfect my backhand stroke in tennis 🎾 
 
 ## My Skills 🧠
 
