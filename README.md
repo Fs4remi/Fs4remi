@@ -1,7 +1,5 @@
 # Hi there, I'm Fatem 👋
 
-![Banner Image](https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/06/22210327/BE-Computer-Science-1600x1001.png)
-
 ## About Me 🚀
 
 I'm a **Software Engineer** with experience in **developing backend services capable of automating complex workflows, making decisions with machine learning models, and processing large amounts of data**. I work at [Autodesk](https://www.autodesk.com/) where I build tools using Python and AWS infrastructure. 
@@ -35,4 +33,6 @@ In my free time, I volunteer with student education organizations that help Comp
 ## My socials 📬
 - **LinkedIn** https://www.linkedin.com/in/fsaremi/
 - **Youtube Channel**(https://www.youtube.com/channel/UCaS2E7iKY39h5obW0H1hhhQ)
+
+![Banner Image](https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/06/22210327/BE-Computer-Science-1600x1001.png)
 
